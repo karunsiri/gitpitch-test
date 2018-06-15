@@ -1,2 +1,3 @@
 logo: assets/logo.png
 background: assets/background.jpg
+theme-override: assets/PITCHME.css
