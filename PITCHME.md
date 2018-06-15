@@ -10,4 +10,15 @@ Markdown presentation for everyon on Git
 
 ---?include=slides/code_slides.md
 
-![Flux explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+---
+@title[Mystic Wiki page]
+
+#### See the mystic wiki page [HERE](https://github.com/gitpitch/gitpitch/wiki)
+
+---
+
+#### Thanks!
+
+![awesome](https://sayingimages.com/wp-content/uploads/yes-definitely-awesome-meme.jpg)
+
+---
