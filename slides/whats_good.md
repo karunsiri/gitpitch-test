@@ -25,5 +25,3 @@
 +++
 
 #### And many more @fa[thumbs-up]
-
----
