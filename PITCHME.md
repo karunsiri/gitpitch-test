@@ -1,14 +1,16 @@
-# Flux
+# GitPitch
 
-An application architecture for React
+Markdown presentation for everyon on Git
 
 ---
 
-### Flux Design
+### What's Good
 
-- Dispatcher: blah blah blah
-- Stores: blah blah blah blah
-- Views: view view view view
+- It's Free
+- It's using markdown
+- It comes with speaker view, timer, overview, etc. Just like other presentation
+  tools
+- The presentation is hosted on Git repo
 
 ---
 
